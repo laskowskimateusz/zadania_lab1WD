@@ -1,6 +1,4 @@
-tekst_piosenki = 'la la lo lo li li li li li le le le'
+tekst_piosenki = 'go dj go dj, go dj go go go go go go'
 
-print("Ilosc 'la' -", tekst_piosenki.count("la"))
-print("Ilosc 'lo' -", tekst_piosenki.count("lo"))
-print("Ilosc 'li' -", tekst_piosenki.count("li"))
-print("Ilosc 'le' -", tekst_piosenki.count("le"))
+print("Ilosc 'go' -", tekst_piosenki.count("go"))
+print("Ilosc 'dj' -", tekst_piosenki.count("dj"))
