@@ -1,7 +1,7 @@
 string = "zmienna"
-float = 2.6
-hex = 0xF
+float_type = 2.6
+hex_int = 0xF
 
-print("String - %s, float - %0.1f, hex - %X" % (string, float, hex))
+print("String - %s, float - %0.1f, hex - %X" % (string, float_type, hex_int))
 
-print("String - {}, float - {}, hex - {:X}".format(string, float, hex))
+print("String - {}, float - {}, hex - {:X}".format(string, float_type, hex_int))
